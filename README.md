@@ -1,2 +1,3 @@
 # Supervised-Machine-Learning-Coursera
-The Labs involved in the Supervised Machine Learning course of Coursera
+The Labs involved in the <a href="https://www.coursera.org/learn/machine-learning/"> Supervised Machine Learning course of Coursera </a> taken by <a href="https://www.andrewng.org/">
+ Andrew NG </a>
